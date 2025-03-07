@@ -1,4 +1,4 @@
-# 16 Proyectos Interesantes para Estudiar y Mejorar en Python
+# 160 Ejercicios y 16 Proyectos Interesantes para Estudiar y Mejorar en Python
 
 Este repositorio contiene **16 proyectos prácticos** que desarrollé durante un curso para **estudiar y mejorar mis habilidades en Python**. Cada proyecto fue una oportunidad para **repasar conceptos clave** y **aplicarlos** de manera práctica.
 
